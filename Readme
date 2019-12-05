@@ -1,0 +1,10 @@
+I want to use PgAdmin4 new version in Linux mint 19
+So I follow old version link at https://linuxhint.com/install-pgadmin4-ubuntu/
+
+Edits: 
+5.Download paAdmin 4
+wget https://ftp.postgresql.org/pub/pgadmin/pgadmin4/***
+
+*** choose the newest version on that time.
+
+6.pip install pgadmin4-***.whl
